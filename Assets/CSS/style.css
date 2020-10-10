@@ -8,6 +8,7 @@
 body    {
         /* background-color: lightgrey; */
         background-image: url(https://sfwallpaper.com/images/web-backgrounds-9.jpg);
+        
 }
 /* responsible for stylining all of the header elements */
 header  {
@@ -16,6 +17,12 @@ header  {
     background-color: black;
     color: white;
     text-align: center;
+    font-family: 'Assistant', sans-serif;
+}
+
+/* styles link emements with-ing the nave bar */
+a {
+  color: rgb(21, 123, 182);
 }
 /* responsible for styling the footer element */
 footer  {
@@ -24,6 +31,8 @@ footer  {
   background-color: black;
   color: white;
 }
+
+
 /* responsible for styling all elements with main-content class */
 .main-content {
   margin: 3%; 
@@ -34,5 +43,14 @@ footer  {
 /* responsible for styling all elements with footer-row class */
 .footer-row  {
   margin: 1%; 
-  margin-left: 25%
+  text-align: center;
+  /* margin-left: 25% */
+}
+
+#navbar-text  {
+  font-size: 26px;
+}
+#navbarNav  {
+  margin-left: 30px;
+  font-size: 20px;
 }
