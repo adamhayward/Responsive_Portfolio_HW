@@ -1,14 +1,14 @@
-/*  over-all website styling */
+/* over-all website styling */
 *   {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*  responsible for stylining all of the body elements */
+/* responsible for stylining all of the body elements */
 body    {
         background-color: lightgrey;
 }
-/*  responsible for stylining all of the header elements */
+/* responsible for stylining all of the header elements */
 header  {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,33 +16,23 @@ header  {
     color:white;
     text-align: center;
 }
-
-section {
-  margin:3%; 
-  margin-left: 2%; 
-  padding-left: 0;
-  padding:3%; 
-  width: 800px;
-  background-color: white;
-}
-/*  responsible for styling all of the footer element */
+/* responsible for styling the footer element */
 footer{
   padding:1%;
   background-color:black;
   color: white;
 }
-/*  responsible for stylining all h1 elements */
-/*  element only located in web page's header */
-h1{
- text-align: left;
+/* responsible for styling all elements with main-content class */
+.main-content {
+  margin:3%; 
+  margin-left: 2%; 
+  padding-left: 0;
+  padding:3%; 
+  width: auto;
+  background-color: white;
 }
-/*  responsible for stylining all h2 elements */
-/*  element only located in web page's main content */
-h2  {
-    text:;
-}
-/*  responsible for stylining all h2 elements */
-/*  element only located in web page's footer */
-h3  {
-  text:;
+/* responsible for styling all elements with footer-row class */
+.footer-row  {
+  margin: 1%; 
+  margin-left:25%
 }
