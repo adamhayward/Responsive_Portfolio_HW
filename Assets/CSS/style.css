@@ -10,16 +10,6 @@ body    {
         background-image: url(https://sfwallpaper.com/images/web-backgrounds-9.jpg);
         
 }
-/* responsible for stylining all of the header elements */
-header  {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-family: 'Assistant', sans-serif;
-}
-
 /* styles link emements with-ing the nave bar */
 a {
   color: rgb(21, 123, 182);
@@ -31,6 +21,10 @@ footer  {
   color:  rgb(21, 123, 182);
 }
 
+button  {
+  width: 26px;
+  height: 26px;
+}
 
 /* responsible for styling all elements with main-content class */
 .main-content {
