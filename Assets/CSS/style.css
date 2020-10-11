@@ -20,7 +20,7 @@ footer  {
   padding: 1%;
   color:  rgb(21, 123, 182);
 }
-
+/* responsible for the collapsible button in navbar */
 button  {
   width: 26px;
   height: 26px;
@@ -39,11 +39,7 @@ button  {
   text-align: center;
   /* margin-left: 25% */
 }
-
+/*  styles text size in navbar */
 #navbar-text  {
   font-size: 26px;
-}
-#navbarNav  {
-  margin-left: 30px;
-  font-size: 20px;
 }
