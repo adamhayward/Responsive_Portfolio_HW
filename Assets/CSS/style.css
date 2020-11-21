@@ -43,3 +43,13 @@ button  {
 #navbar-text  {
   font-size: 26px;
 }
+
+.card {
+  width: 350px;
+  height: 350px;
+}
+
+button {
+  width: auto;
+  height: auto;
+}
