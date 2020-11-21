@@ -28,9 +28,10 @@ button  {
 
 /* responsible for styling all elements with main-content class */
 .main-content {
-  margin: 3%; 
-  margin-left: 2%; 
-  padding: 3%; 
+ 
+  margin: 2.5% auto;
+  /* margin-left: 2%;  */
+  /* padding: 3%;  */
   background-color: white;
 }
 /* responsible for styling all elements with footer-row class */
