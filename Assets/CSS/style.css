@@ -14,11 +14,18 @@ body    {
 a {
   color: rgb(21, 123, 182);
 }
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+}
 /* responsible for styling the footer element */
 footer  {
   margin-top: 50px;
   padding: 1%;
   color:  rgb(21, 123, 182);
+ 
+
 }
 /* responsible for the collapsible button in navbar */
 button  {
@@ -30,8 +37,7 @@ button  {
 .main-content {
  
   margin: 2.5% auto;
-  /* margin-left: 2%;  */
-  /* padding: 3%;  */
+  padding: 2.5%;
   background-color: white;
 }
 /* responsible for styling all elements with footer-row class */
