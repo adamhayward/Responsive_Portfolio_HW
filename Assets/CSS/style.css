@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Saira+Condensed:wght@200&display=swap');
+
 /* responsible for stylining all of the body elements */
+
 body    {
   background-color: lightgrey;
+  font-family: 'Montserrat', sans-serif;
  /* background-image: url(https://sfwallpaper.com/images/web-backgrounds-9.jpg); */
         
 }
@@ -37,6 +41,7 @@ nav{
   border-style: solid;
   border-width: 0px 0px 5px 0px;
   border-color: rgb(21, 123, 182);
+  font-family: 'Saira Condensed', sans-serif;
   font-size: 28px;
 }
 
@@ -63,7 +68,8 @@ nav{
 }
 
 .navbar-brand{
-  font-size: 36px;
+  font-family: 'Saira Condensed', sans-serif;
+  font-size: 40px;
 }
 
 .navbar-toggler {
