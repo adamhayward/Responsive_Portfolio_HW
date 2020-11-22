@@ -1,8 +1,7 @@
 /* responsible for stylining all of the body elements */
 body    {
-  position: relative;
   background-color: lightgrey;
-        /* background-image: url(https://sfwallpaper.com/images/web-backgrounds-9.jpg); */
+ /* background-image: url(https://sfwallpaper.com/images/web-backgrounds-9.jpg); */
         
 }
 /* styles link emements with-ing the nave bar */
